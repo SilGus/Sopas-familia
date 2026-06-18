@@ -12,6 +12,8 @@
   --border: #e9d8c5;
   --gold-soft: #c6a76b;
   --white: #fffdf8;
+  --green:#118907;
+  --green-dark:#0c5a05;
   --shadow: 0 16px 40px rgba(88, 60, 35, 0.12);
   --space-1: 0.618rem;
   --space-2: 1rem;
@@ -19,6 +21,7 @@
   --space-4: 2.618rem;
   --space-5: 4.236rem;
   --space-6: 6.854rem;
+  
 }
 
 * {
@@ -240,13 +243,13 @@ p {
 }
 
 .btn-primary {
-  background: var(--terracotta);
+  background: var(--green);
   box-shadow: 0 10px 22px rgba(146, 62, 38, 0.22);
   color: #fff;
 }
 
 .btn-primary:hover {
-  background: var(--terracotta-dark);
+  background: var(--green-dark);
   transform: translateY(-1px);
 }
 
