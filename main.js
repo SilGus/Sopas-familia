@@ -1,4 +1,4 @@
-const CHECKOUT_URL = "#oferta"; // Reemplazar por URL real de checkout
+const CHECKOUT_URL = "https://puntoycomastore.com/cart/49179879145700:1"; // Reemplazar por URL real de checkout
 
 const checkoutLinks = document.querySelectorAll("[data-checkout]");
 const stickyBreakpoint = 420;
