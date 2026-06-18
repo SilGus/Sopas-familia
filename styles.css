@@ -905,6 +905,12 @@ body.show-sticky .sticky-cta {
   }
 }
 
+#hero-title-peq {
+  font-size: 30px;
+  color:#923e26;
+  margin-top: 25px;
+}
+
 @media (min-width: 1120px) {
   .hero-grid {
     grid-template-columns: minmax(0, 1fr) 430px;
